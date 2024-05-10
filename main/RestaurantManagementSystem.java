@@ -17,7 +17,7 @@ import javafx.scene.text.*;
 import javafx.geometry.Pos;   
 
                              
-public class RestaurantManagementSystem extends Application {
+public class Main extends Application {
 
 
 
