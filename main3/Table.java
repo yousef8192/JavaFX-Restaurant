@@ -41,9 +41,8 @@ public class Table {
 
 
     // Other Methods	
-    public void bookTable(int tableNumber, Order currentOrder) {
+    public void bookTable(Order currentOrder) {
 		this.currentOrder = currentOrder;
-		this.tableNumber = tableNumber;
 		this.isAvailable = false;
 	}
 	
