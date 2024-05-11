@@ -28,6 +28,7 @@ public class Menu {
         foodItemsInMenuList.add(new FoodItem("Soup", 40));
         foodItemsInMenuList.add(new FoodItem("Coffe", 50));
         foodItemsInMenuList.add(new FoodItem("Water", 10)); 
+        foodItemsInMenuList.sort(null);
     } 
     public static void addFoodItemToMenu(String name, float price) {
 
@@ -52,10 +53,10 @@ public class Menu {
         else {
             AlertClass.showAlert(Alert.AlertType.ERROR, "Invalid input", "Please Enter a Valid Price..."); 
         }
-
+        foodItemsInMenuList.sort(null); 
 
      }
-    public static void editFoodItemFromMenu(String oldName, int oldPrice, String newName, int newPrice) {
+    public static void editFoodItemFromMenu(String oldName, float oldPrice, String newName, float newPrice) {
 
         if(newPrice >= 0) {
             boolean validName  = false;
@@ -79,7 +80,7 @@ public class Menu {
             AlertClass.showAlert(Alert.AlertType.ERROR, "Error", "Please Enter a Valid Price...");
         }
          
-
+        foodItemsInMenuList.sort(null);
          
     }
     public static void deleteFoodItemFromMenu(String name) {
@@ -97,7 +98,7 @@ public class Menu {
         if(validName == false) {
             AlertClass.showAlert(Alert.AlertType.ERROR, "Error", "Food Item name entered doesn't exist, please enter the correct Food Item name..."); 
         }
-         
+           foodItemsInMenuList.sort(null); 
     }
     public static boolean checkValidInputs(String foodName, int foodPrice) {
         // check if price provided is +ve
