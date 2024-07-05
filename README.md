@@ -135,19 +135,18 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 <img src="img/wrong-number.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/wrong-address.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/invalid-format.png" alt="drawing" style="width:600px;"/><br/>
-<img src="img/invalid-duration.png" alt="drawing" style="width:600px;"/>
+<img src="img/invalid-duration.png" alt="drawing" style="width:600px;"/><br/>
 <br/><br/><br/>
 
 * Exception Handling : <br/><br/>
 <img src="img/already-registered-username.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/already-registered-number.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/invaild-login.png" alt="drawing" style="width:600px;"/><br/>
-<img src="img/food-item-exists.png" alt="drawing" style="width:600px;"/>
+<img src="img/food-item-exists.png" alt="drawing" style="width:600px;"/><br/>
 <br/><br/><br/>
 
 
 <!-- }}} -->
-
 
 
 
