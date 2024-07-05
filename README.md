@@ -1,6 +1,20 @@
 # JavaFX-Restaurant
 
 
+<!-- {{{Table of Contents --> 
+
+### Table of Contents
+
+* [Table of Contents](#table-of-contents)
+* [Introduction](#introduction)
+* [Technical Details](#technical-details)
+* [Key User Features](#key-user-features)
+* [Key Developer Features](#key-developer-features)
+* [UML Diagram](#uml-diagram)
+* [Project DEMO](#project-demo)
+
+<!-- }}} -->
+
 <!-- {{{Introduction --> 
 <br/>
 
@@ -90,9 +104,9 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 
 <!-- }}} -->
 
-<!-- {{{DEMO --> 
+<!-- {{{Project DEMO --> 
 
-### Project Demo
+### Project-DEMO
 
 * Welcome Page : <br/><br/>
 <img src="img/welcome-page.png" alt="drawing" style="width:600px;"/>
