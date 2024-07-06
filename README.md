@@ -144,21 +144,25 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 ### Restaurant Class UML : <br/><br/>
 <img src="img/Restaurant-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
+
 ### Order Class UML : <br/><br/>
 <img src="img/Order-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
+
 ### FoodItem Class UML : <br/><br/>
 <img src="img/FoodItem-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
+
 ### Table Class UML : <br/><br/>
 <img src="img/Table-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
+
 ### Restaurant's Hall Class UML : <br/><br/>
 <img src="img/Hall-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
+
 ### User Class UML : <br/><br/>
 <img src="img/User-Class-UML.png" alt="drawing" style="width:600px;"/>
-
 <br/><br/>
 
 <!-- }}} -->
