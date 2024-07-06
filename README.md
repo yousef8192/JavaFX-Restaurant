@@ -3,7 +3,7 @@
 
 <!-- {{{Table of Contents --> 
 
-### Table of Contents
+## Table of Contents
 
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
@@ -18,7 +18,7 @@
 <!-- {{{Introduction --> 
 <br/>
 
-### Introduction
+## Introduction
 
 This Project is a Restaurant Management System Desktop Application made with Java & JavaFX.<br/>
 It is based on OOP Design Approach and utilizes lots of great features both regarding the developer and the user sides. 
@@ -28,7 +28,7 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 
 <!-- {{{Technical Details --> 
 
-### Technical Details
+## Technical Details
 
 * Language : Java
 
@@ -42,7 +42,7 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 <!-- }}} -->
 
 <!-- {{{Key User Features --> 
-### Key User Features
+## Key User Features
 
 * The application serves both the Owners and Customers of the Restaurant
 
@@ -61,7 +61,7 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 <!-- }}} -->
 
 <!-- {{{Key Developer Features --> 
-### Key Developer Features
+## Key Developer Features
 
 * Graphical User Interface (GUI) : The application boasts a visually appealing interface built with JavaFX, ensuring smooth navigation and a pleasant user experience.
 
@@ -74,39 +74,9 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 <br/>
 <!-- }}} -->
 
-<!-- {{{UML Diagram --> 
-
-### UML Diagram
-
-* Live Link : https://www.canva.com/design/DAGE3d0k5Yc/nZBmSfLMhskue9EBZSlKvA/edit
-
-<br/>
-
-* Restaurant Class UML : <br/><br/>
-<img src="img/Restaurant-Class-UML.png" alt="drawing" style="width:600px;"/>
-<br/><br/><br/>
-* Order Class UML : <br/><br/>
-<img src="img/Order-Class-UML.png" alt="drawing" style="width:600px;"/>
-<br/><br/><br/>
-* FoodItem Class UML : <br/><br/>
-<img src="img/FoodItem-Class-UML.png" alt="drawing" style="width:600px;"/>
-<br/><br/><br/>
-* Table Class UML : <br/><br/>
-<img src="img/Table-Class-UML.png" alt="drawing" style="width:600px;"/>
-<br/><br/><br/>
-* Restaurant's Hall Class UML : <br/><br/>
-<img src="img/Hall-Class-UML.png" alt="drawing" style="width:600px;"/>
-<br/><br/><br/>
-* User Class UML : <br/><br/>
-<img src="img/User-Class-UML.png" alt="drawing" style="width:600px;"/>
-
-<br/><br/>
-
-<!-- }}} -->
-
 <!-- {{{Project DEMO --> 
 
-### Project-DEMO
+## Project-DEMO
 
 * Welcome Page : <br/><br/>
 <img src="img/welcome-page.png" alt="drawing" style="width:600px;"/>
@@ -162,6 +132,35 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 
 <!-- }}} -->
 
+<!-- {{{UML Diagram --> 
+
+## UML Diagram
+
+* Live Link : https://www.canva.com/design/DAGE3d0k5Yc/nZBmSfLMhskue9EBZSlKvA/edit
+
+<br/>
+
+* Restaurant Class UML : <br/><br/>
+<img src="img/Restaurant-Class-UML.png" alt="drawing" style="width:600px;"/>
+<br/><br/><br/>
+* Order Class UML : <br/><br/>
+<img src="img/Order-Class-UML.png" alt="drawing" style="width:600px;"/>
+<br/><br/><br/>
+* FoodItem Class UML : <br/><br/>
+<img src="img/FoodItem-Class-UML.png" alt="drawing" style="width:600px;"/>
+<br/><br/><br/>
+* Table Class UML : <br/><br/>
+<img src="img/Table-Class-UML.png" alt="drawing" style="width:600px;"/>
+<br/><br/><br/>
+* Restaurant's Hall Class UML : <br/><br/>
+<img src="img/Hall-Class-UML.png" alt="drawing" style="width:600px;"/>
+<br/><br/><br/>
+* User Class UML : <br/><br/>
+<img src="img/User-Class-UML.png" alt="drawing" style="width:600px;"/>
+
+<br/><br/>
+
+<!-- }}} -->
 
 
 
