@@ -78,43 +78,43 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 
 ## Project-DEMO
 
-* Welcome Page : <br/><br/>
+### Welcome Page : <br/><br/>
 <img src="img/welcome-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
-* Registration Page : <br/><br/>
+### Registration Page : <br/><br/>
 <img src="img/registration-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
-* Login Page : <br/><br/>
+### Login Page : <br/><br/>
 <img src="img/login-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
-* Admin Page : <br/><br/>
+### Admin Page : <br/><br/>
 <img src="img/admin-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
 
 
-* Restaurant Information Page : <br/><br/>
+### Restaurant Information Page : <br/><br/>
 <img src="img/restaurant-info-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
 
 
-* Customer Page : <br/><br/>
+### Customer Page : <br/><br/>
 <img src="img/customer-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
-* Order Page : <br/><br/>
+### Order Page : <br/><br/>
 <img src="img/order-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
-* Order Confirmation Page : <br/><br/>
+### Order Confirmation Page : <br/><br/>
 <img src="img/order-confirmation-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
-* Input Sanitation : <br/><br/>
+### Input Sanitation : <br/><br/>
 <img src="img/wrong-pwd.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/wrong-number.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/wrong-address.png" alt="drawing" style="width:600px;"/><br/>
@@ -122,7 +122,7 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 <img src="img/invalid-duration.png" alt="drawing" style="width:600px;"/><br/>
 <br/><br/><br/>
 
-* Exception Handling : <br/><br/>
+### Exception Handling : <br/><br/>
 <img src="img/already-registered-username.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/already-registered-number.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/invaild-login.png" alt="drawing" style="width:600px;"/><br/>
@@ -136,26 +136,27 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 
 ## UML Diagram
 
-* Live Link : https://www.canva.com/design/DAGE3d0k5Yc/nZBmSfLMhskue9EBZSlKvA/edit
+### Live Link : 
+    - https://www.canva.com/design/DAGE3d0k5Yc/nZBmSfLMhskue9EBZSlKvA/edit
 
 <br/>
 
-* Restaurant Class UML : <br/><br/>
+### Restaurant Class UML : <br/><br/>
 <img src="img/Restaurant-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
-* Order Class UML : <br/><br/>
+### Order Class UML : <br/><br/>
 <img src="img/Order-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
-* FoodItem Class UML : <br/><br/>
+### FoodItem Class UML : <br/><br/>
 <img src="img/FoodItem-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
-* Table Class UML : <br/><br/>
+### Table Class UML : <br/><br/>
 <img src="img/Table-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
-* Restaurant's Hall Class UML : <br/><br/>
+### Restaurant's Hall Class UML : <br/><br/>
 <img src="img/Hall-Class-UML.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
-* User Class UML : <br/><br/>
+### User Class UML : <br/><br/>
 <img src="img/User-Class-UML.png" alt="drawing" style="width:600px;"/>
 
 <br/><br/>
