@@ -1,6 +1,10 @@
 # JavaFX-Restaurant
 
-<br/>
+
+Welcome Page              | Admin Info Page                   | User Order Page
+:------------------------:|:---------------------------------:|:------------------------:
+![](img/welcome-page.png) | ![](img/restaurant-info-page.png) | ![](img/order-page.png)
+
 
 <!-- {{{Table of Contents --> 
 
@@ -133,12 +137,10 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 
 <!-- }}} -->
 
-<!-- {{{UML Diagram --> 
+<!-- {{{UML Diagram DEMO --> 
 
-## UML Diagram
+## UML Diagram DEMO
 
-### Live Link : 
-    - https://www.canva.com/design/DAGE3d0k5Yc/nZBmSfLMhskue9EBZSlKvA/edit
 
 <br/>
 
@@ -167,6 +169,7 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 <br/><br/>
 
 <!-- }}} -->
+
 
 
 
