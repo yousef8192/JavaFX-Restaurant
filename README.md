@@ -16,7 +16,7 @@ Welcome Page              | Admin Info Page                   | User Order Page
 * [Key User Features](#key-user-features)
 * [Key Developer Features](#key-developer-features)
 * [Project DEMO](#project-demo)
-* [UML Diagram](#uml-diagram-demo)
+* [UML Diagram DEMO](#uml-diagram-demo)
 
 <!-- }}} -->
 
