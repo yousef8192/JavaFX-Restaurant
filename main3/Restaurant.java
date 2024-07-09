@@ -19,8 +19,6 @@ import javafx.application.Platform;
 
 public class Restaurant extends Application {
 
-
-
 /////////////////////////////////////////////////// Class's Data-Fields
 
     // Income of the Restaurant 
