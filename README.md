@@ -10,13 +10,31 @@ Welcome Page              | Admin Info Page                   | User Order Page
 
 ## Table of Contents
 
+* [JavaFX-Restaurant](#javafx-restaurant)
 * [Table of Contents](#table-of-contents)
 * [Introduction](#introduction)
 * [Technical Details](#technical-details)
 * [Key User Features](#key-user-features)
 * [Key Developer Features](#key-developer-features)
-* [Project DEMO](#project-demo)
+* [Project-DEMO](#project-demo)
+    <!-- - [Welcome Page](#welcome-page--) -->
+    <!-- - [Registration Page](#registration-page--) -->
+    <!-- - [Login Page](#login-page--) -->
+    <!-- - [Admin Page](#admin-page--) -->
+    <!-- - [Restaurant Information Page](#restaurant-information-page--) -->
+    <!-- - [Customer Page](#customer-page--) -->
+    <!-- - [Order Page](#order-page--) -->
+    <!-- - [Order Confirmation Page](#order-confirmation-page--) -->
+* [Input Sanitation DEMO](#input-sanitation-demo-)
+* [Exception Handling DEMO](#exception-handling-demo--)
 * [UML Diagram DEMO](#uml-diagram-demo)
+    <!-- - [Restaurant Class UML](#restaurant-class-uml--) -->
+    <!-- - [Order Class UML](#order-class-uml--) -->
+    <!-- - [FoodItem Class UML](#fooditem-class-uml--) -->
+    <!-- - [Table Class UML](#table-class-uml--) -->
+    <!-- - [Restaurant's Hall Class UML](#restaurants-hall-class-uml--) -->
+    <!-- - [User Class UML](#user-class-uml--) -->
+
 
 <!-- }}} -->
 
@@ -99,13 +117,9 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 <img src="img/admin-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
-
-
 ### Restaurant Information Page : <br/><br/>
 <img src="img/restaurant-info-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
-
-
 
 ### Customer Page : <br/><br/>
 <img src="img/customer-page.png" alt="drawing" style="width:600px;"/>
@@ -119,7 +133,12 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 <img src="img/order-confirmation-page.png" alt="drawing" style="width:600px;"/>
 <br/><br/><br/>
 
-### Input Sanitation : <br/><br/>
+<!-- }}} -->
+
+<!-- {{{Input Sanitization DEMO -->
+
+## Input Sanitation DEMO <br/>
+
 <img src="img/wrong-pwd.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/wrong-number.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/wrong-address.png" alt="drawing" style="width:600px;"/><br/>
@@ -127,13 +146,16 @@ It is based on OOP Design Approach and utilizes lots of great features both rega
 <img src="img/invalid-duration.png" alt="drawing" style="width:600px;"/><br/>
 <br/><br/><br/>
 
-### Exception Handling : <br/><br/>
+<!-- }}} -->
+
+<!-- {{{Exception Handling DEMO -->
+
+## Exception Handling DEMO : <br/>
 <img src="img/already-registered-username.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/already-registered-number.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/invaild-login.png" alt="drawing" style="width:600px;"/><br/>
 <img src="img/food-item-exists.png" alt="drawing" style="width:600px;"/><br/>
 <br/><br/><br/>
-
 
 <!-- }}} -->
 
